@@ -4,6 +4,15 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+
+/**
+* main - use if statement and print the variable
+*
+* Description: using the main function
+* this program if statement stored the variable n positive, negative or neutre
+* Return: 0
+*/
+
 int main(void)
 {
 	int n;
