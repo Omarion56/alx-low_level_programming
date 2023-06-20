@@ -1,24 +1,20 @@
 #include "main.h"
-
 /**
-* main - prints _putchar
-*
-* Description: _putchar
-* this program prints _putchar
-* Return: 0
-*/
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
+ */
 
 int main(void)
 {
-int _putchar('_');
-int _putchar('p');
-int _putchar('u');
-int _putchar('t');
-int _putchar('c');
-int _putchar('h');
-int _putchar('a');
-int _putchar('r');
-int _putchar('\n');
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 return (0);
 }
-
